@@ -1,0 +1,90 @@
+Mozilla/5.0 (TCL-6148) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Sharp-6862) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Palm-4579) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Vivo-7176) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Google-5986) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Oppo-6083) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Razer-5882) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (YotaPhone-5151) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Google-7702) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Lenovo-4358) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Ulefone-9828) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (OnePlus-3994) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Lenovo-6543) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (ZTE-2948) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Ulefone-1710) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Oppo-9310) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Nubia-5781) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Lava-4409) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Kyocera-3687) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+Mozilla/5.0 (TCL-9840) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Xiaomi-0534) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (OnePlus-7981) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Micromax-5060) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (OnePlus-7198) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Infinix-2085) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (HTC-2984) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Gionee-4023) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (OnePlus-6667) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Coolpad-8841) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Xiaomi-0365) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Kyocera-4769) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (OnePlus-0567) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Mozilla/5.0 (Nubia-4741) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (YotaPhone-8117) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (YotaPhone-2008) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Infinix-2528) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Nexus-1268) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+Mozilla/5.0 (Coolpad-7223) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Lenovo-6221) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Doogee-4731) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+Mozilla/5.0 (Coolpad-6586) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Honor-6934) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Elephone-6037) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Essential-6166) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (iPhone-2556) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Blackberry-4694) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Mozilla/5.0 (ZUK-0125) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Coolpad-8789) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Micromax-0406) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Razer-8516) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (TCL-9165) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (SM-9983) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Elephone-3853) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Pixel-0282) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Acer-3363) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (GT-2529) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Oppo-7541) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Mozilla/5.0 (Ulefone-7237) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Vivo-1049) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Alcatel-1379) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (ZTE-4250) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Essential-8568) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Realme-2939) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Vivo-9945) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Lava-1062) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Google-3094) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Huawei-1595) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (LG-8028) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (Honor-6999) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Wiko-6682) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Pixel-7152) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Elephone-7644) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (ZUK-4827) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Micromax-6821) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (TCL-1948) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Oppo-0948) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+Mozilla/5.0 (Vivo-0697) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Xiaomi-0103) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Huawei-8029) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Elephone-7650) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Micromax-2720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (TCL-5924) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (Lava-6822) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (HTC-1334) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (Kyocera-5275) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+Mozilla/5.0 (Alcatel-7018) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (OnePlus-2741) AppleWebKit/537.36 (KHTML, like Gecko) Version/5.0 Safari/537.36
+Mozilla/5.0 (ZTE-4615) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+Mozilla/5.0 (LeEco-4966) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36
+Mozilla/5.0 (Pixel-6427) Gecko/20100101 Firefox/83.0
